@@ -1,0 +1,22 @@
+Circuit: * D:\Facultad\mini whip\cuarta opcion mas viable\Draft1.asc
+
+WARNING: Less than two connections to node N008.  This node is used by L1.
+Direct Newton iteration for .op point succeeded.
+
+Date: Wed Sep 06 11:53:57 2023
+Total elapsed time: 0.150 seconds.
+
+tnom = 25
+temp = 27
+method = modified trap
+totiter = 2118
+traniter = 2084
+tranpoints = 1043
+accept = 1043
+rejected = 0
+matrix size = 24
+fillins = 12
+solver = Normal
+Matrix Compiler1: 2.50 KB object code size  0.9/0.5/[0.3]
+Matrix Compiler2: 2.15 KB object code size  0.4/0.6/[0.3]
+
