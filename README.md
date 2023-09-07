@@ -47,7 +47,7 @@ https://oshwlab.com/IgrikXD/Antenna_Mini_Whip_SMD-74e9e6740b814f6c901a8118551257
 
 http://pa3fwm.nl/technotes/tn09d.html
 
-## video muy interesante sobre el desearollo y construcción de una miniwhip
+## video muy interesante sobre el desarrollo y construcción de una miniwhip
 
 https://www.youtube.com/watch?v=uFUlopjSGo4
 
