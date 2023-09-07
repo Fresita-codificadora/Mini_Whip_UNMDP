@@ -51,7 +51,7 @@ http://pa3fwm.nl/technotes/tn09d.html
 
 https://www.youtube.com/watch?v=uFUlopjSGo4
 
-## Funcionamiento de la miniwhip especificamente de la 
+## Funcionamiento de la miniwhip especificamente de la pa0rdt
 
 http://www.pa3fwm.nl/technotes/tn07.html
 
